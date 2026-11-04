@@ -9,7 +9,7 @@ BOOT1_FILE = "boot1.bin"
 
 # Lista de archivos a meter dentro de la imagen
 
-FILES_TO_ADD = ["KERNEL.BIN", "hola.bin","calc.bin","map.bin","bios.bin",]
+FILES_TO_ADD = ["KERNEL.BIN", "hola.bin","calc.bin","map.bin",]
 
 
 
